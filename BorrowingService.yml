@@ -3,5 +3,5 @@ spring:
   application:
     name: BorrowingService
     
-server: 
+server:
   port: 8084
