@@ -1,7 +1,0 @@
-
-spring:
-  application:
-    name: BorrowingService
-    
-server:
-  port: 8084
